@@ -1,18 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Aniket</h1>
-<h3 align="center">A passionate developer from India</h3>
-
+<h3 align="center">A passionate programmer from India</h3>
+<br>
+<br>
 <p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=aniketmore311&show_icons=true" alt="aniketmore311" /></p>
-<!--
-**aniketmore311/aniketmore311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+- 🔭 I’m currently working on **front end development**
+- 🌱 I’m currently learning **react**
+- 🤔 I’m looking for help with **react**
+- 💬 Ask me about **data structures and algorithms**
+- 📫 How to reach me
+<p><a href="https://github.com/aniketmore311" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/aniket-more-2b97571b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
