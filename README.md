@@ -9,15 +9,9 @@
 - 💬 Ask me about **data structures and algorithms and backend web development**
 - 📫 How to reach me:
   - <p> <a href="https://github.com/aniketmore311" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/aniket-more-2b97571b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:aniketavinashmore343@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
-
-##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmore311&hide=TeX&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aniketmore311&count_private=true&show_icons=true&include_all_commits=true)
-
-
-
-
-
-
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmore311&hide=TeX&layout=compact"/>
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=aniketmore311&count_private=true&show_icons=true&include_all_commits=true"/>
+</p>
